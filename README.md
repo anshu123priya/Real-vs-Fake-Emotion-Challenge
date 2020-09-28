@@ -1,13 +1,7 @@
 # Real-v-s-Fake-Emotion-Challenge
 
 ---
-title: Btech Project Report 2
-tags:
-description: Facial-Expression-Recognition + Real v/s Fake Expression detection
----
-
-# Btech Project Report 2
-## Facial Expression Recognition and Real v/s Fake Expression detection
+This project is currently in progress under the guidance of Dr. Himanshu Kumar
 
 <!-- Put the link to this slide here so people can follow -->
 
