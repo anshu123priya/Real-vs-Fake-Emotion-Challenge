@@ -163,8 +163,7 @@ from multiple-frames (red). Later, temporal structure is captured by RNN*
 2. Run the open source code of some of the best papers or projects that we got from literature survey.
 3. Reach the baseline accuracy as mentioned in their papers.
 
-#### Timeline
-![](https://i.imgur.com/kWDeH1v.png)
+
 
 
 ---
