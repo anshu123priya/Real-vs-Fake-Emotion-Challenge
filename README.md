@@ -133,7 +133,7 @@ https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w44/Huynh_Discr
 * Next Trained a LSTM-PB network for each emotion class. The LSTM-PB network is a modification of network, where the Recurrent Neural Network (RNN) is replaced with Long short-term memory (LSTM). 
 * For learning a two-stage training procedure was used: finding the optimal weights of LSTM-PB network by a back-propagation algorithm, and learning of the optimal values of parametric bias by accumulating gradients of the previous stage. 
 * Gradient boosting is used to train a Real/Fake discrimination in parametric bias space. 
- (https://i.imgur.com/8vhHIY2.png)
+ ![](https://i.imgur.com/8vhHIY2.png)
  
  
  
